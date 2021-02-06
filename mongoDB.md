@@ -14,6 +14,7 @@ Fundamental MongoDB
 
 ## Relational v.s. Non-relatonal database 
 > Relational database: SQL, MySQL, PostgreSQL
+
 > non-relational database: NoSQL(MongoDB, Redis)
 
 * similarities
